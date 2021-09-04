@@ -1,7 +1,7 @@
 package sessions
 
 import (
-	"github.com/boj/redistore"
+	"github.com/heidsoft/redistore"
 	"github.com/gorilla/sessions"
 )
 
